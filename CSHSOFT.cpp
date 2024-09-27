@@ -16,6 +16,7 @@
  * 
  * Created : 23.03.2023	R. A. Abbak	v1.0  						*/
 #include <unistd.h>				// Standard option library 
+#include<string.h>				// Standard string library
 #include "levelell.h"				// User-defined level ellipsoid library
 #include "matris.h"				// User-defined matrix library
 #define G 6.6742e-11				// Newtonian Earth's attraction constant
