@@ -6,7 +6,7 @@
  *
  * Reference paper for the program:
  * Abbak, R. A., Goyal, R. and Ustun, A. (2024), A user-friendly software package for computing 
- * geoid model by classical Stokes-Helmert method, Computers & Geosciences.
+ * geoid model by classical Stokes-Helmert method, Earth Science Informatics. 
  *
  * Compilation of the program on Linux: 
  * g++ CSHSOFT.cpp matris.cpp levelell.cpp -o CSHSOFT
